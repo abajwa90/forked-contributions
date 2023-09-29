@@ -8,6 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+| ![Ameesa Bajwa] (images/abajwa90.jpg)   | Ameesa Bajwa | [ambajwa90](./students/abajwa90.markdown)|
 
 ### Faculty
 
